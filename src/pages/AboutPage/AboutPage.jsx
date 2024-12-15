@@ -62,7 +62,7 @@ function AboutPage() {
                   isleft={true}
                   timeline={"2022 - 2023"}
                   timeline_title={"Web Development Intern"}
-{/*                   location={" "} */}
+                  location={" "}
                   details={
                     "I have worked as a Fronted Developer where my primary responsibilty was built the responsive UI for mobile devices."
                   }
