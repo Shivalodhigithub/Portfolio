@@ -45,7 +45,7 @@ function AboutPage() {
                   timeline={"2021 - 2025"}
                   timeline_title={"B.TECH in Computer Science "}
                   location={"Madhav Institute of Technology & Science Gwalior (M.P)"}
-                  details={"Pursueing B.TECH in Computer Science & Engineering with 8.09 cgpa from Madhav Institute of Technology & Science Gwalior"}
+                  details={"Pursueing B.TECH in Computer Science & Engineering with 8.09 cgpa."}
                   img={
                     "https://www.gpkotdwar.org.in/images/gallery/l8THHpO6.jpg"
                   }
