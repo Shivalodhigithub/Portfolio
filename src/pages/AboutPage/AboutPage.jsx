@@ -45,7 +45,7 @@ function AboutPage() {
                   timeline={"2021 - 2025"}
                   timeline_title={"B.TECH in Computer Science "}
                   location={"Madhav Institute of Technology & Science Gwalior (M.P)"}
-                  details={"Pursueing B.TECH in Computer Science & Engineering with 8.09 cgpa."}
+                  details={"Pursueing B.TECH in Computer Science & Engineering with 8.09 cgpa at Madhav Institute of Technology & Science Gwalior"}
                   img={
                     "https://www.gpkotdwar.org.in/images/gallery/l8THHpO6.jpg"
                   }
@@ -64,7 +64,7 @@ function AboutPage() {
                   timeline_title={"Web Development Intern"}
                   location={" "}
                   details={
-                    "I have worked as a Fronted Developer where my primary responsibilty was built the UI(User Interface) and responsive UI for different - different devices. "
+                    "I have worked as a Fronted Developer where my primary responsibilty was built the UI and responsive UI for mobile devices. "
                   }
                 />
               </div>
